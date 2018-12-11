@@ -1,0 +1,14 @@
+C:\Users\GIGABYTE\xmas2\bin\Debug\netcoreapp3.0\xmas2.exe
+C:\Users\GIGABYTE\xmas2\bin\Debug\netcoreapp3.0\xmas2.deps.json
+C:\Users\GIGABYTE\xmas2\bin\Debug\netcoreapp3.0\xmas2.runtimeconfig.json
+C:\Users\GIGABYTE\xmas2\bin\Debug\netcoreapp3.0\xmas2.runtimeconfig.dev.json
+C:\Users\GIGABYTE\xmas2\bin\Debug\netcoreapp3.0\xmas2.dll
+C:\Users\GIGABYTE\xmas2\bin\Debug\netcoreapp3.0\xmas2.pdb
+C:\Users\GIGABYTE\xmas2\obj\Debug\netcoreapp3.0\xmas2.csprojAssemblyReference.cache
+C:\Users\GIGABYTE\xmas2\obj\Debug\netcoreapp3.0\xmas2.Form1.resources
+C:\Users\GIGABYTE\xmas2\obj\Debug\netcoreapp3.0\xmas2.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\xmas2\obj\Debug\netcoreapp3.0\xmas2.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\xmas2\obj\Debug\netcoreapp3.0\xmas2.AssemblyInfoInputs.cache
+C:\Users\GIGABYTE\xmas2\obj\Debug\netcoreapp3.0\xmas2.AssemblyInfo.cs
+C:\Users\GIGABYTE\xmas2\obj\Debug\netcoreapp3.0\xmas2.dll
+C:\Users\GIGABYTE\xmas2\obj\Debug\netcoreapp3.0\xmas2.pdb
