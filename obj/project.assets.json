@@ -1810,11 +1810,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GIGABYTE\\xmas2\\xmas2.csproj",
+      "projectUniqueName": "D:\\StarProject\\star_test\\star_test\\xmas2.csproj",
       "projectName": "xmas2",
-      "projectPath": "C:\\Users\\GIGABYTE\\xmas2\\xmas2.csproj",
+      "projectPath": "D:\\StarProject\\star_test\\star_test\\xmas2.csproj",
       "packagesPath": "C:\\Users\\GIGABYTE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GIGABYTE\\xmas2\\obj\\",
+      "outputPath": "D:\\StarProject\\star_test\\star_test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

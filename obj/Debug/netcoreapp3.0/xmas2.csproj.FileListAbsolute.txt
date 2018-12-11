@@ -12,3 +12,17 @@ C:\Users\GIGABYTE\xmas2\obj\Debug\netcoreapp3.0\xmas2.AssemblyInfoInputs.cache
 C:\Users\GIGABYTE\xmas2\obj\Debug\netcoreapp3.0\xmas2.AssemblyInfo.cs
 C:\Users\GIGABYTE\xmas2\obj\Debug\netcoreapp3.0\xmas2.dll
 C:\Users\GIGABYTE\xmas2\obj\Debug\netcoreapp3.0\xmas2.pdb
+D:\StarProject\star_test\star_test\bin\Debug\netcoreapp3.0\xmas2.exe
+D:\StarProject\star_test\star_test\bin\Debug\netcoreapp3.0\xmas2.deps.json
+D:\StarProject\star_test\star_test\bin\Debug\netcoreapp3.0\xmas2.runtimeconfig.json
+D:\StarProject\star_test\star_test\bin\Debug\netcoreapp3.0\xmas2.runtimeconfig.dev.json
+D:\StarProject\star_test\star_test\bin\Debug\netcoreapp3.0\xmas2.dll
+D:\StarProject\star_test\star_test\bin\Debug\netcoreapp3.0\xmas2.pdb
+D:\StarProject\star_test\star_test\obj\Debug\netcoreapp3.0\xmas2.csprojAssemblyReference.cache
+D:\StarProject\star_test\star_test\obj\Debug\netcoreapp3.0\xmas2.Form1.resources
+D:\StarProject\star_test\star_test\obj\Debug\netcoreapp3.0\xmas2.csproj.GenerateResource.cache
+D:\StarProject\star_test\star_test\obj\Debug\netcoreapp3.0\xmas2.csproj.CoreCompileInputs.cache
+D:\StarProject\star_test\star_test\obj\Debug\netcoreapp3.0\xmas2.AssemblyInfoInputs.cache
+D:\StarProject\star_test\star_test\obj\Debug\netcoreapp3.0\xmas2.AssemblyInfo.cs
+D:\StarProject\star_test\star_test\obj\Debug\netcoreapp3.0\xmas2.dll
+D:\StarProject\star_test\star_test\obj\Debug\netcoreapp3.0\xmas2.pdb
