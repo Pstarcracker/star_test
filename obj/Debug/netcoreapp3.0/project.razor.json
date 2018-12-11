@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\StarProject\\star_test\\star_test\\xmas2.csproj",
+  "TargetFramework": "netcoreapp3.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
